@@ -1,0 +1,7 @@
+{
+  "appId": "ac3c2062-6eff-486b-abcb-893a4c6ad946",
+  "displayName": "sp-sinisterburrito",
+  "name": "http://sp-sinisterburrito",
+  "password": "08cb6b5c-dea1-4866-a71f-6e4738571ac7",
+  "tenant": "9f693e63-5e9e-4ced-98a4-8ab28f9d0c2d"
+}
